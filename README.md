@@ -49,16 +49,6 @@ A Lightning Web Component that pulls in:
 
 ---
 
-## 📸 Screenshots
-
-> Replace with actual screenshots when available.
-
-| Dashboard Overview | Leaderboard Example |
-|--------------------|---------------------|
-| ![Dashboard](screenshots/dashboard.png) | ![Leaderboard](screenshots/leaderboard.png) |
-
----
-
 ## 🔗 Live Demo
 
 🛠 Currently under NDA for client — available upon request or can provide sanitized mock demo in dev org.

@@ -1,3 +1,5 @@
+// Sample code for illustrative purposes only — not full production implementation
+
 # 🏡 Loan Originator Dashboard - Custom Salesforce Lightning Home Page
 
 This project showcases a custom Salesforce Lightning Home Page designed for a residential mortgage brokerage to help loan originators stay focused, motivated, and productive.

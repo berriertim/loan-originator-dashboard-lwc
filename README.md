@@ -1,3 +1,5 @@
+// Sample code for illustrative purposes only — not full production implementation
+
 # 🏡 Loan Originator Dashboard - Custom Salesforce Lightning Home Page
 
 This project showcases a custom Salesforce Lightning Home Page designed for a residential mortgage brokerage to help loan originators stay focused, motivated, and productive.
@@ -44,16 +46,6 @@ A Lightning Web Component that pulls in:
 - **Custom Metadata & Custom Settings** for goal config
 - **Salesforce User & Task objects** + optional integration with LOS (Loan Origination System)
 - Optional compatibility with platforms like **LevelEleven, Ambition**, or **Gamifier**
-
----
-
-## 📸 Screenshots
-
-> Replace with actual screenshots when available.
-
-| Dashboard Overview | Leaderboard Example |
-|--------------------|---------------------|
-| ![Dashboard](screenshots/dashboard.png) | ![Leaderboard](screenshots/leaderboard.png) |
 
 ---
 
